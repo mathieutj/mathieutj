@@ -39,8 +39,8 @@ Je suis un développeur passionné par la création d'interfaces fluides et perf
 ### 📫 Me contacter
 
 - **WhatsApp :** [Discuter avec moi](https://wa.me/+2290162783162)
-- **LinkedIn :** [https://www.linkedin.com/in/merloneweb/]
-- **Portfolio :** [https://mathieutj.github.io/portfolio-mathieu-tossou/]
+- **LinkedIn :** https://www.linkedin.com/in/merloneweb/
+- **Portfolio :** https://mathieutj.github.io/portfolio-mathieu-tossou/
 
 ---
-« Transformer des idées complexes en expériences numériques simples et élégantes. »
+*« Transformer des idées complexes en expériences numériques simples et élégantes. »*
